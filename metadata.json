@@ -1,0 +1,6 @@
+{
+  "name": "Gestión Creativa de Vídeo",
+  "description": "Sistema de gestión creativa para creadores de vídeo que cubre todo el ciclo de producción con enfoque narrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
